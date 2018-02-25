@@ -1,12 +1,12 @@
- 1048  touch cli.md
- 1049  vim cli.md
- 1050  cat cli.md
- 1051  mkdir notes
- 1052  cd notes
- 1053  mv ../cli.md .
- 1054  cp cli.md cli-2.md
- 1055  ls
- 1056  rm cli.md
- 1057  mv cli-2.md cli.md
- 1058  cd ..
- 1059  rm -rf notes
+ 1113  touch cli.md
+ 1114  vim cli.md
+ 1115  cat cli.md
+ 1116  mkdir notes
+ 1117  cd notes
+ 1118  mv ../cli.md .
+ 1119  cp cli.md cli-2.md
+ 1120  ls
+ 1121  rm -rf cli.md
+ 1122  mv cli-2.md cli.md
+ 1123  cd ..
+ 1124  rm -rf notes
